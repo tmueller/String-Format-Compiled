@@ -1,0 +1,16 @@
+Package
+=======
+
+- Dist::Zilla
+    * Version check oder Autoversion
+    * git
+    * github
+- github
+- cpan
+- doku (benches erwähnen)
+    * POD Coverage
+- tests
+    * Code Coverage
+#- benchmarks
+#    * String::Format
+#    * subpackages

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="e1d463a1-37a6-4193-9753-efe983de50f2" kpf_version="5" name="String-Format-Compiled.komodoproject">
+<preference-set idref="e1d463a1-37a6-4193-9753-efe983de50f2">
+<preference-set id="testPlans">
+<preference-set id="Complete">
+  <string id="command_line">prove --nocount -Ilib -f</string>
+  <string relative="url" id="directory"></string>
+  <string id="language">Perl - TAP (*.t)</string>
+</preference-set>
+</preference-set>
+</preference-set>
+</project>
